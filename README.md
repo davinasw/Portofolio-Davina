@@ -23,7 +23,7 @@ This project analyzes 2023 cafe sales data to understand sales performance, cust
 ---
 
 ## Dashboard Preview
-![Dashboard Preview] ([Cafe Sales_Dashboard.jpg](https://github.com/davinasw/Portofolio-Davina/blob/a94a394e57f59a2fef248de9b2a5c95732f90baf/Cafe%20Sales_Dashboard.jpg))
+![image alt](https://github.com/davinasw/Portofolio-Davina/blob/a94a394e57f59a2fef248de9b2a5c95732f90baf/Cafe%20Sales_Dashboard.jpg)
 
 ---
 
